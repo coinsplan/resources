@@ -1,0 +1,1 @@
+# Resources for development under Coinsplan
